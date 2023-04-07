@@ -23,8 +23,6 @@ With these elements combined, players must use their skills and strategy to navi
 
 ### Game Demo Vedio
 
-[Game Intruction Vedio.MOV](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/938cb8c0-7ce3-4d65-bc3c-93829ee3241e/Game_Intruction_Vedio.mov)
-
 link to youTube: [https://youtu.be/eU8JyDfJh8c](https://youtu.be/eU8JyDfJh8c)
 
 ### Instruction of Running the Game (in MARS)
