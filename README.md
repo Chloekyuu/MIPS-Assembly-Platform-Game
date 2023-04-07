@@ -31,35 +31,19 @@ link to youTube: [https://youtu.be/eU8JyDfJh8c](https://youtu.be/eU8JyDfJh8c)
 
 1. Set up *Bitmap*:
     1. Find **Tools** on top menu → Click **Bitmap Display**
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01d3c972-9ef8-400d-91c4-91f36a773493/Untitled.png)
-        
     2. Set both *Unit Width* and *Unit Height* to `4`
     3. Set *Display Width* to `512`
     4. Set *Display Height* to `256`
     5. Set *Base address for display* to `0x10008000 ($gp)`
     6. Click **Connect to MIPS.**
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb39cce1-2dd5-433b-b28c-16ac57a1eafa/Untitled.png)
-        
 2. Set up *Keyboard*:
     1. Find **Tools** on top menu → Click **Keyboard and Display MMIO Simulator**
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/652ec934-5144-44ce-b4b9-761ea4b21156/Untitled.png)
-        
     2. Click **Connect to MIPS**.
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f14be62-09e1-4184-b34d-0105d651c8ee/Untitled.png)
         
 3. Run the program
     1. Find **Run** on top menu → Click **Assemble**
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c44a713-f65b-45c3-8fed-e8604fcf1481/Untitled.png)
-        
     2. Either click **Go** under the **Run** menu or the Green Botton on the tool bar.
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30ae48b3-b7ad-40cc-ae4a-b45608dfa56f/Untitled.png)
-        
     3. Now you can play the game with typing input in Keyboard Simulator.
 
 ---
